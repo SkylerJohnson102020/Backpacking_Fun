@@ -1,7 +1,9 @@
 body {
-        background-color: forestgreen;
+        background-color: #00ffd1;
         padding: 25px 15px 25px 15px;
         margin: 0px 20px;
+        text-align: center;
+        border: #00afff;
 }
 
 header {
@@ -9,17 +11,27 @@ header {
 }
 
 h1 {
-    border: blue; 1px solid;
-    background-color: blue;
+    border: #00afff; 1px solid;
+    background-color: #00afff;
     text-align: center;
 }
 
 li {
     border: solid cyan 1px;
     display: inline;
-    padding: 40px;
-    background-color: darkblue;
+    padding: 5px;
+    background-color: #00ccff;
     color: white;
+    padding: 5px 10px 5px 10px;
+    ;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: solid white
 }
 
 article {
@@ -30,15 +42,16 @@ section {
     border: solid black 1px;
 }
 
-#main {
-    width: 90%;
-}
-
-.body_image {
+img {
     text-align: center;
+    height: 300px;
+    width: 400px;
 }
 
 footer {
     text-align: center;
 }
 
+#footer {
+    padding-top: 10px;
+}
