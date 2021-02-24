@@ -1,2 +1,2 @@
-# Star_Wars_Better
-Why Star Wars is better than Star Trek
+# Backpacking_Fun
+Why Backpacking is great!
