@@ -17,7 +17,7 @@ h1 {
 li {
     border: solid cyan 1px;
     display: inline;
-    padding: 10px;
+    padding: 25px;
     background-color: darkblue;
     color: white;
 }
