@@ -1,0 +1,44 @@
+body {
+        background-color: forestgreen;
+        padding: 25px 15px 25px 15px;
+        margin: 0px 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    border: blue; 1px solid;
+    background-color: blue;
+    text-align: center;
+}
+
+li {
+    border: solid cyan 1px;
+    display: inline;
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+}
+
+article {
+    background-color: #2274a5;
+}
+
+section {
+    border: solid black 1px;
+}
+
+#main {
+    width: 90%;
+}
+
+.body_image {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
