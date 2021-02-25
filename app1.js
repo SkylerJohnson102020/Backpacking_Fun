@@ -1,4 +1,3 @@
-console.log('hello world')
 var today = new Date();
 var hourNow = today.getHours();
 var greeting;
@@ -13,4 +12,4 @@ if (hourNow > 18) {
     greeting = 'Welcome!';
 }
 
-document.write('<h3>' + greeting + '</h3>');
+document.write('<hjs>' + greeting + '</hjs>');
