@@ -1,9 +1,9 @@
-var today = new Date();
-var hourNow = today.getHours();
-var greeting;
-
+let today = new Date();
+let hourNow = today.getHours();
+let greeting;
+console.log(hourNow);
 if (hourNow > 18) {
-    greetng = 'Good Evening!';
+    greeting = 'Good Evening!';
 } else if (hourNow > 12) {
     greeting = 'Good Afternoon!';
 } else if (hourNow > 0) {
@@ -12,4 +12,5 @@ if (hourNow > 18) {
     greeting = 'Welcome!';
 }
 
-document.write('<hjs>' + greeting + '</hjs>');
+document.write(greeting);
+console.log(greeting);
