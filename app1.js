@@ -1,6 +1,7 @@
+console.log('hello world')
 var today = new Date();
 var hourNow = today.getHours();
-ver greeting;
+var greeting;
 
 if (hourNow > 18) {
     greetng = 'Good Evening!';
