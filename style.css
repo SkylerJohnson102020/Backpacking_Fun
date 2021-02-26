@@ -59,3 +59,8 @@ p {
 footer {
     text-align: center;
 }
+
+.stars {
+    height: 50px;
+    width: 50px;
+}
