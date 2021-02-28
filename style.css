@@ -15,11 +15,11 @@ h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
     background-color: #00d0ff;
     border-color: solid black;
-    color: black;
+    color: white;
     text-align: center;
-    text-decoration: underline black;
+    text-decoration: underline white;
     border-style: ridge;
-    font-size: 41px;
+    font-size: 75px;
 }
 
 li {
@@ -52,7 +52,7 @@ img {
 
 #sjs {
     text-align: center;
-    color: black;
+    color: white;
     margin-top: 20px;
     margin-bottom: 0px;
     font-size: xx-large;
@@ -67,6 +67,10 @@ p {
     border-color:  white;
     border-style: ridge;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    /* background-color: cornsilk; */
+    /* opacity: 0; */
+    font-size: 25px;
 }
 
 footer {
