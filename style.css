@@ -3,7 +3,8 @@ head {
 }
 
 body {
-    background-color: hsl(174, 100%, 50%);
+    /* background-color: hsl(174, 100%, 50%); */
+    background-image: url(Trail.jpg);
     padding: 25px 15px 25px 15px;
     margin: 0px 20px;
     text-align: center;
